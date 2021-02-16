@@ -21,4 +21,4 @@ n ĉi tie estas la kvanto de proverbojn, kiun vi volas montri.
 ## Agnosko
 
 Dankon al www.proverbaro.net pro la fonto de la proverboj.  
-Dankon al MJWootton por la ideon.
+Dankon al MJWootton pro la ideo.
